@@ -12,7 +12,7 @@ body {
 header {
     width: 100%;
     height: 100vh;
-    background: url('/uploads/2022/11/bg_mars.png');
+    background: url('https://lms.logikaschool.com/uploads/2022/11/bg_mars.png');
     background-size: cover;
     background-position: center center; 
     display: flex;
